@@ -1,1 +1,1 @@
-# introductionGit
+# introductingGit
